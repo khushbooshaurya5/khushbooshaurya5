@@ -1,13 +1,10 @@
 <div align="center">
 
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://raw.githubusercontent.com/khushbooshaurya5/khushbooshaurya5/main/header.svg" width="100%" alt="Khushboo Kumari"/>
+
 <!-- OPEN TO WORK BANNER -->
 ![Open To Work](https://img.shields.io/badge/🎯_OPEN_TO_WORK-ML_Engineer_|_Computer_Vision_|_AI_Research-brightgreen?style=for-the-badge)
-
-# 👋 Hi, I'm Khushboo Kumari
-
-### ML Engineer · Computer Vision · AI Research
-
-*Building production-ready ML systems that deliver measurable results*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khushbooshaurya5.github.io-4A90D9?style=for-the-badge)](https://khushbooshaurya5.github.io/khushboo-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khushboo-kumari-5053a9b7/)
