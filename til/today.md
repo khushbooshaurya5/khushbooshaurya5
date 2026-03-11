@@ -1,6 +1,6 @@
-## 📅 March 11, 2026
+## Today I Learned
 
-### 💡 Concept: YOLOv9
+**2026-03-11**
+
+### YOLOv9
 Real-time object detection using single neural network pass for speed and accuracy.
-
----
