@@ -21,3 +21,6 @@ File name:
 
 ### 2026-03-12 — Coordinate Alignment
 > Sub-pixel precision alignment of measurement data using geometric transformations.
+
+### 2026-03-13 — Hyperspectral Imaging
+> Captures 50+ spectral bands to detect material properties invisible to RGB cameras.
