@@ -30,3 +30,6 @@ File name:
 
 ### 2026-03-15 — Confusion Matrix
 > Table showing TP, TN, FP, FN to evaluate classification model performance.
+
+### 2026-03-16 — Precision vs Recall
+> Precision measures false positives; Recall measures false negatives in classification.
