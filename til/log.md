@@ -42,3 +42,6 @@ File name:
 
 ### 2026-03-19 — UMAP
 > Uniform Manifold Approximation for fast high-dimensional data visualization.
+
+### 2026-03-20 — Semantic Segmentation
+> Assigns class label to every pixel in image for dense scene understanding.
