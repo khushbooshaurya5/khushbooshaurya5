@@ -66,3 +66,6 @@ File name:
 
 ### 2026-03-27 — RAG Pipeline
 > Retrieval Augmented Generation combines search with LLM for grounded responses.
+
+### 2026-03-28 — Hough Transform
+> Detects geometric shapes like circles and lines in images using parameter space voting.
