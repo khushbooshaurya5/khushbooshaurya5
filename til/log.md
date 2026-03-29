@@ -69,3 +69,6 @@ File name:
 
 ### 2026-03-28 — Hough Transform
 > Detects geometric shapes like circles and lines in images using parameter space voting.
+
+### 2026-03-29 — Data Drift Detection
+> Monitoring statistical distribution shifts in ML pipeline input features over time.
