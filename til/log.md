@@ -72,3 +72,6 @@ File name:
 
 ### 2026-03-29 — Data Drift Detection
 > Monitoring statistical distribution shifts in ML pipeline input features over time.
+
+### 2026-03-30 — KAN Networks
+> Kolmogorov-Arnold Networks use learnable activation functions on edges instead of nodes.
