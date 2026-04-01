@@ -78,3 +78,6 @@ File name:
 
 ### 2026-03-31 — YOLOv9
 > Real-time object detection using single neural network pass for speed and accuracy.
+
+### 2026-04-01 — Coordinate Alignment
+> Sub-pixel precision alignment of measurement data using geometric transformations.
