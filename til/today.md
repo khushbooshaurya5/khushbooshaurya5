@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-04-01**
+**2026-04-02**
 
-### Coordinate Alignment
-Sub-pixel precision alignment of measurement data using geometric transformations.
+### Hyperspectral Imaging
+Captures 50+ spectral bands to detect material properties invisible to RGB cameras.
