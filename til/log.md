@@ -93,3 +93,6 @@ File name:
 
 ### 2026-04-05 — Precision vs Recall
 > Precision measures false positives; Recall measures false negatives in classification.
+
+### 2026-04-06 — F1 Score
+> Harmonic mean of precision and recall, best metric for imbalanced datasets.
