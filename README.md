@@ -21,7 +21,6 @@
 
 Computer Science graduate pursuing **M.Sc. in Machine Learning & Data Analytics** at Aalen University, Germany. With 2+ years of technical experience across India and Germany — from B2B enterprise solutions to cutting-edge semiconductor inspection systems.
 
-Currently building **computer vision pipelines** alongside PhD scientists at **Carl Zeiss SMT GmbH**, working on next-generation EUV lithography components. I value precision, persistence, and solutions that deliver measurable results.
 
 ---
 
@@ -31,14 +30,11 @@ Currently building **computer vision pipelines** alongside PhD scientists at **C
 
 | 🎯 Metric | 📈 Result | 🏢 Company |
 |-----------|-----------|-----------|
-| Defect Classification Accuracy | **94%** | Carl Zeiss SMT |
-| Precision Improvement | **10x** | Carl Zeiss SMT |
-| Manual Calibration Time Reduction | **50%** | Carl Zeiss SMT |
 | IC Analysis Time Reduction | **70%** | Matworks GmbH |
 | ML Model Reliability Improvement | **40%** | Matworks GmbH |
 | Project Efficiency Boost | **30%** | HighRadius |
 | Target Completion Rate | **108%** | HighRadius |
-| Analysis Turnaround | **Days → Hours** | Carl Zeiss SMT |
+
 
 </div>
 
@@ -48,7 +44,7 @@ Currently building **computer vision pipelines** alongside PhD scientists at **C
 
 | Role | Company | Impact |
 |------|---------|--------|
-| 🔬 ML & Algorithm Intern | **Carl Zeiss SMT GmbH** | 94% accuracy, 10x precision improvement |
+| 🔬 ML & Algorithm Intern | **Carl Zeiss SMT GmbH** |
 | 🤖 Werkstudent ML/CV | **Matworks GmbH** | 70% reduction in manual IC analysis time |
 | 🎓 Research Assistant | **Hochschule Aalen** | KAN networks for cancer gene prediction |
 | 💡 Techno Functional Lead | **HighRadius Technologies** | 108% target, 30% efficiency boost |
@@ -60,10 +56,6 @@ Currently building **computer vision pipelines** alongside PhD scientists at **C
 ### 🔬 [Multi-Agent Research Assistant](https://multi-agent-research-assistant-vcuv5hqygtp74djpycnk8a.streamlit.app)
 > AI system with A2A communication, tool calling, and RAG for automated research workflows
 > `LangChain` `FAISS` `Streamlit` `Tavily`
-
-### 🏭 Industrial Defect Detection using Computer Vision
-> End-to-end CV pipeline for semiconductor surface quality assessment — adopted as team baseline at Carl Zeiss
-> `Python` `OpenCV` `scikit-learn` `HDF5`
 
 ### 📊 Data Drift Detection Framework
 > Production-grade monitoring system for ML pipeline reliability — deployed for 3+ industrial clients
@@ -77,13 +69,6 @@ Currently building **computer vision pipelines** alongside PhD scientists at **C
 
 ## 🧩 Skills & Expertise
 
-**Computer Vision & Image Processing**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv9](https://img.shields.io/badge/YOLOv9-00FFFF?style=for-the-badge&logoColor=black)
-![HDF5](https://img.shields.io/badge/HDF5-E3000F?style=for-the-badge)
-![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-FF6F00?style=for-the-badge)
-![Defect Detection](https://img.shields.io/badge/Defect_Detection-6A1B9A?style=for-the-badge)
 
 **Machine Learning & AI**
 
