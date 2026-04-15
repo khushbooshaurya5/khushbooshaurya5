@@ -110,3 +110,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-04-14 — Transfer Learning
 > Using pretrained model weights as starting point for new tasks.
+
+### 2026-04-15 — FAISS Indexing
+> Facebook AI Similarity Search enables fast nearest-neighbor lookup in vector space.
