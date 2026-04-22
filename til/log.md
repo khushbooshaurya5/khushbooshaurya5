@@ -131,3 +131,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-04-21 — Coordinate Alignment
 > Sub-pixel precision alignment of measurement data using geometric transformations.
+
+### 2026-04-22 — Hyperspectral Imaging
+> Captures 50+ spectral bands to detect material properties invisible to RGB cameras.
