@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-04-27**
+**2026-04-29**
 
-### PCA
-Principal Component Analysis reduces dimensionality while preserving maximum variance.
+### Semantic Segmentation
+Assigns class label to every pixel in image for dense scene understanding.
