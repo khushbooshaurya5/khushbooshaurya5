@@ -155,3 +155,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-04-30 — Attention Mechanism
 > Transformers use attention to weigh importance of each token relative to others.
+
+### 2026-04-30 — Attention Mechanism
+> Transformers use attention to weigh importance of each token relative to others.
