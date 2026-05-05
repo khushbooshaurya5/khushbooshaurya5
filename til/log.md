@@ -167,3 +167,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-05-03 — Dropout Regularization
 > Randomly disables neurons during training to prevent overfitting.
+
+### 2026-05-05 — FAISS Indexing
+> Facebook AI Similarity Search enables fast nearest-neighbor lookup in vector space.

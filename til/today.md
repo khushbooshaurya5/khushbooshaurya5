@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-05-03**
+**2026-05-05**
 
-### Dropout Regularization
-Randomly disables neurons during training to prevent overfitting.
+### FAISS Indexing
+Facebook AI Similarity Search enables fast nearest-neighbor lookup in vector space.
