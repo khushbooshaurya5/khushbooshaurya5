@@ -176,3 +176,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-05-06 — RAG Pipeline
 > Retrieval Augmented Generation combines search with LLM for grounded responses.
+
+### 2026-05-08 — Data Drift Detection
+> Monitoring statistical distribution shifts in ML pipeline input features over time.

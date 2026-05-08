@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-05-06**
+**2026-05-08**
 
-### RAG Pipeline
-Retrieval Augmented Generation combines search with LLM for grounded responses.
+### Data Drift Detection
+Monitoring statistical distribution shifts in ML pipeline input features over time.
