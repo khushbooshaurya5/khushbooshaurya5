@@ -188,3 +188,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-05-10 — YOLOv9
 > Real-time object detection using single neural network pass for speed and accuracy.
+
+### 2026-05-12 — Hyperspectral Imaging
+> Captures 50+ spectral bands to detect material properties invisible to RGB cameras.
