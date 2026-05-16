@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-05-15**
+**2026-05-16**
 
-### Precision vs Recall
-Precision measures false positives; Recall measures false negatives in classification.
+### F1 Score
+Harmonic mean of precision and recall, best metric for imbalanced datasets.
