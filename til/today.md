@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-05-16**
+**2026-05-18**
 
-### F1 Score
-Harmonic mean of precision and recall, best metric for imbalanced datasets.
+### UMAP
+Uniform Manifold Approximation for fast high-dimensional data visualization.
