@@ -266,3 +266,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-06-06 — PCA
 > Principal Component Analysis reduces dimensionality while preserving maximum variance.
+
+### 2026-06-07 — UMAP
+> Uniform Manifold Approximation for fast high-dimensional data visualization.
