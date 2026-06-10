@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-06-09**
+**2026-06-10**
 
-### Attention Mechanism
-Transformers use attention to weigh importance of each token relative to others.
+### Gradient Descent
+Optimization algorithm that minimizes loss by moving in direction of steepest descent.
