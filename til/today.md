@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-06-13**
+**2026-06-14**
 
-### Transfer Learning
-Using pretrained model weights as starting point for new tasks.
+### FAISS Indexing
+Facebook AI Similarity Search enables fast nearest-neighbor lookup in vector space.
