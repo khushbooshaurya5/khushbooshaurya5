@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-06-15**
+**2026-06-16**
 
-### RAG Pipeline
-Retrieval Augmented Generation combines search with LLM for grounded responses.
+### Hough Transform
+Detects geometric shapes like circles and lines in images using parameter space voting.
