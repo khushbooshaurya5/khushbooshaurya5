@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-07-06**
+**2026-07-07**
 
-### Hough Transform
-Detects geometric shapes like circles and lines in images using parameter space voting.
+### Data Drift Detection
+Monitoring statistical distribution shifts in ML pipeline input features over time.
