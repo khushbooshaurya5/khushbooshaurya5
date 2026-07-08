@@ -359,3 +359,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-07-07 — Data Drift Detection
 > Monitoring statistical distribution shifts in ML pipeline input features over time.
+
+### 2026-07-08 — KAN Networks
+> Kolmogorov-Arnold Networks use learnable activation functions on edges instead of nodes.
