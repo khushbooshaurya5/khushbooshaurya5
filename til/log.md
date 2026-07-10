@@ -365,3 +365,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-07-09 — YOLOv9
 > Real-time object detection using single neural network pass for speed and accuracy.
+
+### 2026-07-10 — Coordinate Alignment
+> Sub-pixel precision alignment of measurement data using geometric transformations.
