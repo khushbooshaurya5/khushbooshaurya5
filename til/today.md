@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-07-12**
+**2026-07-13**
 
-### Feature Extraction
-Transforming raw data into meaningful representations for ML model input.
+### Confusion Matrix
+Table showing TP, TN, FP, FN to evaluate classification model performance.
