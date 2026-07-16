@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-07-14**
+**2026-07-16**
 
-### Precision vs Recall
-Precision measures false positives; Recall measures false negatives in classification.
+### PCA
+Principal Component Analysis reduces dimensionality while preserving maximum variance.
