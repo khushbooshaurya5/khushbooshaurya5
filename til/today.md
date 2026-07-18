@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-07-17**
+**2026-07-18**
 
-### UMAP
-Uniform Manifold Approximation for fast high-dimensional data visualization.
+### Semantic Segmentation
+Assigns class label to every pixel in image for dense scene understanding.
