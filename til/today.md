@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-07-18**
+**2026-07-20**
 
-### Semantic Segmentation
-Assigns class label to every pixel in image for dense scene understanding.
+### Gradient Descent
+Optimization algorithm that minimizes loss by moving in direction of steepest descent.

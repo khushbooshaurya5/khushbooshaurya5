@@ -395,3 +395,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-07-18 — Semantic Segmentation
 > Assigns class label to every pixel in image for dense scene understanding.
+
+### 2026-07-20 — Gradient Descent
+> Optimization algorithm that minimizes loss by moving in direction of steepest descent.
