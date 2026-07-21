@@ -398,3 +398,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-07-20 — Gradient Descent
 > Optimization algorithm that minimizes loss by moving in direction of steepest descent.
+
+### 2026-07-21 — Batch Normalization
+> Normalizes layer inputs to stabilize and accelerate training.
