@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-07-21**
+**2026-07-23**
 
-### Batch Normalization
-Normalizes layer inputs to stabilize and accelerate training.
+### Transfer Learning
+Using pretrained model weights as starting point for new tasks.

@@ -404,3 +404,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-07-21 — Batch Normalization
 > Normalizes layer inputs to stabilize and accelerate training.
+
+### 2026-07-23 — Transfer Learning
+> Using pretrained model weights as starting point for new tasks.
