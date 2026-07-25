@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-07-24**
+**2026-07-25**
 
-### FAISS Indexing
-Facebook AI Similarity Search enables fast nearest-neighbor lookup in vector space.
+### RAG Pipeline
+Retrieval Augmented Generation combines search with LLM for grounded responses.
