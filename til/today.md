@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-08-09**
+**2026-08-10**
 
-### Gradient Descent
-Optimization algorithm that minimizes loss by moving in direction of steepest descent.
+### Batch Normalization
+Normalizes layer inputs to stabilize and accelerate training.
