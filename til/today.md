@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-08-16**
+**2026-08-17**
 
-### Data Drift Detection
-Monitoring statistical distribution shifts in ML pipeline input features over time.
+### KAN Networks
+Kolmogorov-Arnold Networks use learnable activation functions on edges instead of nodes.
