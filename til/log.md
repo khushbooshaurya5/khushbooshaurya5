@@ -485,3 +485,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-08-17 — KAN Networks
 > Kolmogorov-Arnold Networks use learnable activation functions on edges instead of nodes.
+
+### 2026-08-18 — YOLOv9
+> Real-time object detection using single neural network pass for speed and accuracy.
