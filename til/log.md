@@ -497,3 +497,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-08-21 — Feature Extraction
 > Transforming raw data into meaningful representations for ML model input.
+
+### 2026-08-22 — Confusion Matrix
+> Table showing TP, TN, FP, FN to evaluate classification model performance.
