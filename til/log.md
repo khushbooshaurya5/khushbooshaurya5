@@ -506,3 +506,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-08-24 — F1 Score
 > Harmonic mean of precision and recall, best metric for imbalanced datasets.
+
+### 2026-08-25 — PCA
+> Principal Component Analysis reduces dimensionality while preserving maximum variance.
