@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-08-31**
+**2026-09-01**
 
-### Dropout Regularization
-Randomly disables neurons during training to prevent overfitting.
+### Transfer Learning
+Using pretrained model weights as starting point for new tasks.
