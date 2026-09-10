@@ -24,18 +24,16 @@ Machine Learning Engineer and **M.Sc. Machine Learning & Data Analytics** studen
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Key Highlights
 
 <div align="center">
 
-| 🎯 Metric | 📈 Result | 🏢 Company |
-|-----------|-----------|-----------|
-| Manual analysis reduced (bondpad detection, 1,000+ inspections) | **~70%** | Matworks GmbH |
-| Defect-detection accuracy (Random Forest, 400+ points) | **94%** | Carl Zeiss SMT |
-| Correlation raised (coordinate-mismatch fix) | **r 0.01 → 0.60** | Carl Zeiss SMT |
-| Manual workflow reduction (automation) | **~30%** | HighRadius |
-| UAT target completion | **108%** | HighRadius |
-
+| 🏢 Company | ✨ What I did |
+|-----------|--------------|
+| **Carl Zeiss SMT** | Defect-correlation & ML-analysis pipeline (WLI surface-roughness linked to HDF5 imagery), computer-vision pixel-mapping & polar-to-pixel algorithms, and a modular Tkinter image-processing frontend |
+| **Matworks GmbH** | ML and conventional image-analysis workflows, image-data drift-detection tooling, and frontend modules for material quality-inspection tools |
+| **Max Planck Institute for Astronomy** | Semi-supervised gravitational-lens detection in JWST imaging; diagnosed and fixed a data-leakage bug through a systematic audit |
+| **HighRadius Technologies** | Delivered Python cloud products for Fortune 2000 clients; ran User Acceptance Testing and end-user training |
 
 </div>
 
@@ -46,11 +44,11 @@ Machine Learning Engineer and **M.Sc. Machine Learning & Data Analytics** studen
 | Role | Company | Focus / Impact |
 |------|---------|----------------|
 | 🔭 Student Research Assistant | **Max Planck Institute for Astronomy** | Semi-supervised gravitational-lens detection in JWST NIRCam imaging (EfficientNet-B0); fixed a data-leakage bug via systematic audit |
-| 🔬 Algorithm & ML Intern | **Carl Zeiss SMT GmbH** | HDF5 microscope pipeline; raised correlation r 0.01→0.60, 94% defect accuracy, ~50% less manual analysis |
-| 🤖 Working Student, ML | **Matworks GmbH** | YOLOv9c → ONNX on live hardware for bondpad detection (~70% less manual work); 50+ band hyperspectral fusion + drift detection |
+| 🔬 ML Intern | **Carl Zeiss SMT GmbH** | Defect-correlation pipeline (WLI roughness ↔ HDF5 imagery), CV pixel-mapping & polar-to-pixel algorithms, modular Tkinter frontend |
+| 🤖 Working Student, ML | **Matworks GmbH** | ML & image-analysis workflows, image-data drift-detection tooling, frontend modules for material quality-inspection tools |
 | 🎓 Research Assistant (HiWi) | **Hochschule Aalen** | Kolmogorov-Arnold Networks (B-spline / Cheby / FasterKAN) in PyTorch for gene-expression; explainable-AI tooling |
 | 🏎️ Formula Student (AD) | **Hochschule Aalen** | Autonomous-driving simulation in Unreal Engine 4 + CARLA with camera-based perception |
-| 💡 Software / Team Lead | **HighRadius Technologies** | Python cloud products for Fortune 2000 clients; ~30% less manual workflow; 108% target completion (promoted across 4 roles, ~3 yrs) |
+| 💡 Software / Team Lead | **HighRadius Technologies** | Python cloud products for Fortune 2000 clients; UAT & end-user training (promoted across four roles over ~3 years) |
 
 ---
 
