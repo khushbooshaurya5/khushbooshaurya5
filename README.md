@@ -83,13 +83,13 @@ Five from-scratch **PyTorch** projects spanning the core 3D scene-understanding 
 
 ## 🕹️ Interactive Demos
 
-Browser-based, open-source demos that make the perception work above **clickable** — they run **entirely in the browser** (no server).
+Open-source demos that make the work above **clickable** — the first two run **entirely in the browser** (no server); the RAG assistant is a **full-stack Next.js app** on Vercel.
 
 | Demo | What it does | Live | Code |
 |------|--------------|------|------|
 | **LiDAR Point-Cloud Viewer** | Load KITTI `.bin` / `.pcd`, color by height / intensity / **SemanticKITTI class**, BEV toggle | [▶ open](https://khushbooshaurya5.github.io/lidar-pointcloud-viewer/) | [repo](https://github.com/khushbooshaurya5/lidar-pointcloud-viewer) |
 | **Depth Playground** | Upload a photo → in-browser monocular **depth map** + an orbitable **3D point cloud** | _deploying_ | [repo](https://github.com/khushbooshaurya5/depth-playground) |
-| **Multimodal RAG Assistant** | Chat with your PDFs — grounded answers with page citations *(Vercel + Supabase + Gemini)* | _soon_ | [repo](https://github.com/khushbooshaurya5/rag-doc-assistant) |
+| **Multimodal RAG Assistant** | Chat with your PDFs — grounded answers with page citations *(Vercel + Supabase + Gemini)* | [▶ open](https://rag-doc-assistant-chi.vercel.app) | [repo](https://github.com/khushbooshaurya5/rag-doc-assistant) |
 
 > Built with React + TypeScript + three.js / transformers.js. The LiDAR viewer is a live companion to my segmentation repo; the depth demo mirrors my monocular-depth repo.
 
