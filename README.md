@@ -81,6 +81,20 @@ Five from-scratch **PyTorch** projects spanning the core 3D scene-understanding 
 
 ---
 
+## 🕹️ Interactive Demos
+
+Browser-based, open-source demos that make the perception work above **clickable** — the first two run **entirely in the browser** (no server). Live URLs go here once deployed (Vercel/Netlify).
+
+| Demo | What it does | Live | Code |
+|------|--------------|------|------|
+| **Depth Playground** | Upload a photo → in-browser monocular **depth map** + an orbitable **3D point cloud** | _deploy pending_ | [repo](https://github.com/khushbooshaurya5/depth-playground) |
+| **LiDAR Point-Cloud Viewer** | Load KITTI `.bin` / `.pcd`, color by height / intensity / **SemanticKITTI class**, BEV toggle | _deploy pending_ | [repo](https://github.com/khushbooshaurya5/lidar-pointcloud-viewer) |
+| **Multimodal RAG Assistant** | Chat with your PDFs — grounded answers with page citations *(building)* | _soon_ | [repo](https://github.com/khushbooshaurya5/rag-doc-assistant) |
+
+> Built with React + TypeScript + three.js / transformers.js. The depth and LiDAR demos are live companions to my segmentation and depth repos above.
+
+---
+
 ## 🧩 Skills & Expertise
 
 
