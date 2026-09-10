@@ -67,6 +67,20 @@ Computer Science graduate pursuing **M.Sc. in Machine Learning & Data Analytics*
 
 ---
 
+## 🚗 3D Perception & Autonomous Driving
+
+Five from-scratch **PyTorch** projects spanning the core 3D scene-understanding stack for self-driving. Each ships with a real dataset loader, training / evaluation / visualization scripts, a synthetic **CPU smoke test that runs end-to-end without any dataset download**, and GitHub Actions CI.
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**LiDAR Semantic Segmentation**](https://github.com/khushbooshaurya5/lidar-semantic-segmentation) | Point-wise segmentation on SemanticKITTI via a spherical range-image projection + SalsaNet-style U-Net (cross-entropy + Lovász-Softmax, streaming mIoU) | `PyTorch` · `SemanticKITTI` · `mIoU` |
+| [**Camera + LiDAR Fusion**](https://github.com/khushbooshaurya5/camera-lidar-fusion) | Two-stream RGB + projected-LiDAR fusion for dense segmentation on KITTI, with a built-in `fusion / rgb / lidar` sensor ablation | `PyTorch` · `KITTI` · `Sensor Fusion` |
+| [**Monocular Depth Estimation**](https://github.com/khushbooshaurya5/monocular-depth-estimation) | Self-supervised depth + ego-motion from video (Monodepth2-style photometric loss, auto-masking) — no depth labels | `PyTorch` · `KITTI` · `Self-Supervised` |
+| [**PointPillars 3D Detection**](https://github.com/khushbooshaurya5/pointpillars-3d-detection) | LiDAR 3D object detection: pillars → BEV pseudo-image → SSD head with anchors, focal + smooth-L1 loss, BEV-NMS | `PyTorch` · `KITTI` · `3D Detection` |
+| [**BEV Map Segmentation**](https://github.com/khushbooshaurya5/bev-map-segmentation) | Lift-Splat-Shoot: surround-view cameras → depth-lift → splat into a BEV grid → top-down semantic map | `PyTorch` · `nuScenes` · `BEV` |
+
+---
+
 ## 🧩 Skills & Expertise
 
 
