@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-Computer Science graduate pursuing **M.Sc. in Machine Learning & Data Analytics** at Aalen University, Germany. With 2+ years of technical experience across India and Germany — from B2B enterprise solutions to cutting-edge semiconductor inspection systems.
+Machine Learning Engineer and **M.Sc. Machine Learning & Data Analytics** student at Hochschule Aalen, Germany (B.Tech. Computer Science, top of class). My path spans ~3 years of production software engineering at **HighRadius** (Fortune 2000 fintech SaaS), industrial ML & computer vision at **Carl Zeiss SMT** and **Matworks**, and research ML at the **Max Planck Institute for Astronomy**. I build PyTorch training/evaluation pipelines, curate and preprocess datasets, deploy computer-vision models on live hardware, and work with LLMs, retrieval-augmented generation (RAG), tool calling and multi-agent systems.
 
 
 ---
@@ -30,10 +30,11 @@ Computer Science graduate pursuing **M.Sc. in Machine Learning & Data Analytics*
 
 | 🎯 Metric | 📈 Result | 🏢 Company |
 |-----------|-----------|-----------|
-| IC Analysis Time Reduction | **70%** | Matworks GmbH |
-| ML Model Reliability Improvement | **40%** | Matworks GmbH |
-| Project Efficiency Boost | **30%** | HighRadius |
-| Target Completion Rate | **108%** | HighRadius |
+| Manual analysis reduced (bondpad detection, 1,000+ inspections) | **~70%** | Matworks GmbH |
+| Defect-detection accuracy (Random Forest, 400+ points) | **94%** | Carl Zeiss SMT |
+| Correlation raised (coordinate-mismatch fix) | **r 0.01 → 0.60** | Carl Zeiss SMT |
+| Manual workflow reduction (automation) | **~30%** | HighRadius |
+| UAT target completion | **108%** | HighRadius |
 
 
 </div>
@@ -42,28 +43,30 @@ Computer Science graduate pursuing **M.Sc. in Machine Learning & Data Analytics*
 
 ## 💼 Experience Highlights
 
-| Role | Company | Impact |
-|------|---------|--------|
-| 🔬 ML & Algorithm Intern | **Carl Zeiss SMT GmbH** |
-| 🤖 Werkstudent ML/CV | **Matworks GmbH** | 70% reduction in manual IC analysis time |
-| 🎓 Research Assistant | **Hochschule Aalen** | KAN networks for cancer gene prediction |
-| 💡 Techno Functional Lead | **HighRadius Technologies** | 108% target, 30% efficiency boost |
+| Role | Company | Focus / Impact |
+|------|---------|----------------|
+| 🔭 Student Research Assistant | **Max Planck Institute for Astronomy** | Semi-supervised gravitational-lens detection in JWST NIRCam imaging (EfficientNet-B0); fixed a data-leakage bug via systematic audit |
+| 🔬 Algorithm & ML Intern | **Carl Zeiss SMT GmbH** | HDF5 microscope pipeline; raised correlation r 0.01→0.60, 94% defect accuracy, ~50% less manual analysis |
+| 🤖 Working Student, ML | **Matworks GmbH** | YOLOv9c → ONNX on live hardware for bondpad detection (~70% less manual work); 50+ band hyperspectral fusion + drift detection |
+| 🎓 Research Assistant (HiWi) | **Hochschule Aalen** | Kolmogorov-Arnold Networks (B-spline / Cheby / FasterKAN) in PyTorch for gene-expression; explainable-AI tooling |
+| 🏎️ Formula Student (AD) | **Hochschule Aalen** | Autonomous-driving simulation in Unreal Engine 4 + CARLA with camera-based perception |
+| 💡 Software / Team Lead | **HighRadius Technologies** | Python cloud products for Fortune 2000 clients; ~30% less manual workflow; 108% target completion (promoted across 4 roles, ~3 yrs) |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔬 [Multi-Agent Research Assistant](https://multi-agent-research-assistant-vcuv5hqygtp74djpycnk8a.streamlit.app)
-> AI system with A2A communication, tool calling, and RAG for automated research workflows
-> `LangChain` `FAISS` `Streamlit` `Tavily`
+> Multi-agent LLM system with A2A communication, tool calling, and RAG for automated research workflows; analysed failure modes to improve reliability
+> `LangChain` `FAISS` `RAG` `Streamlit` `Tavily`
 
-### 📊 Data Drift Detection Framework
-> Production-grade monitoring system for ML pipeline reliability — deployed for 3+ industrial clients
-> `Python` `Statistical Analysis` `ML Monitoring`
+### 🧩 Multimodal RAG Assistant with Tool-Calling Agent *(building, 2026)*
+> Text / image / audio queries through a tool-calling agent (Qwen-VL, Whisper) with FAISS retrieval and an evaluation setup for retrieval quality and tool-call success
+> `Qwen-VL` `Whisper` `FAISS` `RAG`
 
-### 💬 NLP Sentiment Analysis
-> Social media sentiment analysis for brand reputation insights
-> `NLP` `Python` `Data Visualization`
+### 📈 Foundation-Model Forecasting Agents — [sktime](https://github.com/sktime/sktime) *(open source, merged)*
+> Designed an interface for LLM-based time-series forecasting agents and merged it through maintainer review
+> `Python` `sktime` `Open Source`
 
 ---
 
@@ -84,13 +87,21 @@ Five from-scratch **PyTorch** projects spanning the core 3D scene-understanding 
 ## 🧩 Skills & Expertise
 
 
-**Machine Learning & AI**
+**Machine & Deep Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02A651?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-6A1B9A?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 **LLMs & Agentic AI**
 
@@ -105,8 +116,9 @@ Five from-scratch **PyTorch** projects spanning the core 3D scene-understanding 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -115,10 +127,10 @@ Five from-scratch **PyTorch** projects spanning the core 3D scene-understanding 
 ```
 Python          ████████████████████  95%
 Computer Vision ██████████████████░░  90%
+PyTorch         █████████████████░░░  85%
 ML / scikit     ██████████████████░░  88%
 LangChain / RAG ████████████████░░░░  80%
 SQL             ███████████████░░░░░  75%
-PyTorch         █████████████░░░░░░░  65%
 German          ████████░░░░░░░░░░░░  40%
 ```
 
@@ -135,6 +147,7 @@ German          ████████░░░░░░░░░░░░  40
 
 ## 📝 Research Interests
 
+- 🚗 **3D Perception for Autonomous Driving** — LiDAR/camera segmentation, depth, 3D detection, BEV
 - 🧬 **Explainable AI (XAI)** — Interpretable neural networks for critical systems
 - 🔬 **Industrial Computer Vision** — Defect detection in semiconductor manufacturing
 - 🧠 **Neuro-Symbolic AI** — Bridging neural networks with symbolic reasoning
@@ -145,13 +158,13 @@ German          ████████░░░░░░░░░░░░  40
 
 ## 🌍 Languages
 
-🇮🇳 Hindi (Native) &nbsp;|&nbsp; 🇬🇧 English (B2) &nbsp;|&nbsp; 🇩🇪 German (Learning)
+🇮🇳 Hindi (Native) &nbsp;|&nbsp; 🇬🇧 English (Fluent, B2 certified) &nbsp;|&nbsp; 🇩🇪 German (Basic, actively improving)
 
 ---
 
 <div align="center">
 
-*📍 Aalen, Germany &nbsp;|&nbsp; 🎓 M.Sc. Machine Learning — Aalen University*
+*📍 Aalen, Germany &nbsp;|&nbsp; 🎓 M.Sc. Machine Learning — Hochschule Aalen*
 
 **💼 Open to ML Engineering, Computer Vision & AI Research roles!**
 
