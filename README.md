@@ -6,7 +6,7 @@
 <!-- OPEN TO WORK BANNER -->
 ![Open To Work](https://img.shields.io/badge/🎯_OPEN_TO_WORK-ML_Engineer_|_Computer_Vision_|_AI_Research-brightgreen?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khushbooshaurya5.github.io-4A90D9?style=for-the-badge)](https://khushbooshaurya5.github.io/khushboo-portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khushbooshaurya5.github.io-4A90D9?style=for-the-badge)](https://khushbooshaurya5.github.io/khushboo-portfolio-projects/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khushboo-kumari-5053a9b7/)
 [![Email](https://img.shields.io/badge/Email-khushbooshaurya@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:khushbooshaurya@gmail.com)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-research-assistant-vcuv5hqygtp74djpycnk8a.streamlit.app)
