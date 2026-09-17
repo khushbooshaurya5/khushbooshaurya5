@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-09-16**
+**2026-09-17**
 
-### Semantic Segmentation
-Assigns class label to every pixel in image for dense scene understanding.
+### Attention Mechanism
+Transformers use attention to weigh importance of each token relative to others.
