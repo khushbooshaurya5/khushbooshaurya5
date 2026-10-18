@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-10-17**
+**2026-10-18**
 
-### YOLOv9
-Real-time object detection using single neural network pass for speed and accuracy.
+### Coordinate Alignment
+Sub-pixel precision alignment of measurement data using geometric transformations.
