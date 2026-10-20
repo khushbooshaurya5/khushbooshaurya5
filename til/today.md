@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-10-19**
+**2026-10-20**
 
-### Hyperspectral Imaging
-Captures 50+ spectral bands to detect material properties invisible to RGB cameras.
+### Feature Extraction
+Transforming raw data into meaningful representations for ML model input.
