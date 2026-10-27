@@ -692,3 +692,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-10-26 — Semantic Segmentation
 > Assigns class label to every pixel in image for dense scene understanding.
+
+### 2026-10-27 — Attention Mechanism
+> Transformers use attention to weigh importance of each token relative to others.
