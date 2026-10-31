@@ -704,3 +704,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-10-30 — Dropout Regularization
 > Randomly disables neurons during training to prevent overfitting.
+
+### 2026-10-31 — Transfer Learning
+> Using pretrained model weights as starting point for new tasks.
