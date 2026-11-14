@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-11-13**
+**2026-11-14**
 
-### PCA
-Principal Component Analysis reduces dimensionality while preserving maximum variance.
+### UMAP
+Uniform Manifold Approximation for fast high-dimensional data visualization.
