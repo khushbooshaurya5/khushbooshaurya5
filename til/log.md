@@ -749,3 +749,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-11-14 — UMAP
 > Uniform Manifold Approximation for fast high-dimensional data visualization.
+
+### 2026-11-15 — Semantic Segmentation
+> Assigns class label to every pixel in image for dense scene understanding.
