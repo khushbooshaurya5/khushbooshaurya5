@@ -761,3 +761,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-11-18 — Batch Normalization
 > Normalizes layer inputs to stabilize and accelerate training.
+
+### 2026-11-19 — Dropout Regularization
+> Randomly disables neurons during training to prevent overfitting.

@@ -1,6 +1,6 @@
 ## Today I Learned
 
-**2026-11-18**
+**2026-11-19**
 
-### Batch Normalization
-Normalizes layer inputs to stabilize and accelerate training.
+### Dropout Regularization
+Randomly disables neurons during training to prevent overfitting.
