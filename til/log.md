@@ -776,3 +776,6 @@ Daily learning log by Khushboo Kumari
 
 ### 2026-11-23 — Hough Transform
 > Detects geometric shapes like circles and lines in images using parameter space voting.
+
+### 2026-11-24 — Data Drift Detection
+> Monitoring statistical distribution shifts in ML pipeline input features over time.
